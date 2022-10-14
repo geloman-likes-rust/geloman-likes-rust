@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @geloman-likes-rust
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning next.js
+#Hi, I'm Gelo 🥨
