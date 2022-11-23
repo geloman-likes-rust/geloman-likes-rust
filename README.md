@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Gelo 🥨</h1>
 
-Welcome to my Github!
+
+![welcome](https://media.tenor.com/Z6gmDPeM6dgAAAAM/dance-moves.gif)
 
 ---
 
