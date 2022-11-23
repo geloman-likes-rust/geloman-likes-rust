@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gelo 🥨</h1>
+<h1 align="center">Hi, I'm Gelo ☕</h1>
 
 <p align="center">
   <img src="https://media.tenor.com/Z6gmDPeM6dgAAAAM/dance-moves.gif">
