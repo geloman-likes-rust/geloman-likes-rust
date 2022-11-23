@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gelo 🥨</h1>
 
 
-<img align="center" src="https://media.tenor.com/Z6gmDPeM6dgAAAAM/dance-moves.gif">
+<img style="margin-left: auto; margin-right: auto;" src="https://media.tenor.com/Z6gmDPeM6dgAAAAM/dance-moves.gif">
 
 ---
 
