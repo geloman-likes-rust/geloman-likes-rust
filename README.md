@@ -16,5 +16,5 @@
 
 ### 📊 Stats
 
-![geloman-likes-rust Github stats](https://github-readme-stats.vercel.app/api?username=geloman-likes-rust&show_icons=true&theme=tokyonight)
+![geloman-likes-rust Github most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=geloman-likes-rust&langs_count=8&layout=compact&theme=material-palenight&hide=html,css,scss)
 
