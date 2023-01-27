@@ -14,10 +14,6 @@
 
 ---
 
-### 📊 Stats
-
-![geloman-likes-rust Github most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=geloman-likes-rust&langs_count=8&layout=compact&theme=material-palenight&hide=html,css,scss)
-
 ![geloman-likes-rust Github streak stat](https://github-readme-streak-stats.herokuapp.com/?user=geloman-likes-rust&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D)
 
 
