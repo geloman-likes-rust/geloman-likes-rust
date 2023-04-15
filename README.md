@@ -10,7 +10,6 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=geloman-likes-rust&theme=tokyonight&hide_border=true&background=FFFFFF00">
 </p>
 
----
 ## 🧰 Tools
 
 ![html](https://img.shields.io/badge/html-FC2947?style=for-the-badge&logo=html5&logoColor=fff)
