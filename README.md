@@ -1,4 +1,6 @@
 ### 📊 Stats
+---
+
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=geloman-likes-rust&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=geloman-likes-rust&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6">
@@ -6,6 +8,7 @@
 </p>
 
 ### 🧰 Tools
+---
 
 ![debian](https://img.shields.io/badge/debian-D14D72?style=for-the-badge&logo=debian&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-393646?style=for-the-badge&logo=tmux&logoColor=fff)
