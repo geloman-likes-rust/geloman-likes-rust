@@ -1,6 +1,5 @@
 <p align="center">
-  <h1>Hi!</h1>
-  <img height="50%" width="auto" src="https://i.pinimg.com/originals/d2/43/95/d2439537bbb38f07c90564a9f23212d5.gif">
+  <img src="https://i.pinimg.com/originals/d2/43/95/d2439537bbb38f07c90564a9f23212d5.gif">
 </p>
 
 ## 📊 Stats
