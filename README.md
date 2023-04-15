@@ -9,13 +9,13 @@
 ---
 ## 🧰 Tools
 
-![debian](https://img.shields.io/badge/debian-D14D72?style=for-the-badge&logo=debian&logoColor=white)
-![tmux](https://img.shields.io/badge/tmux-393646?style=for-the-badge&logo=tmux&logoColor=fff)
-![lua](https://img.shields.io/badge/lua-62CDFF?style=for-the-badge&logo=lua&logoColor=19376D)
-![bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![neovim](https://img.shields.io/badge/neovim-62CDFF?style=for-the-badge&logo=neovim&logoColor=2B7A0B)
 ![html](https://img.shields.io/badge/html-FC2947?style=for-the-badge&logo=html5&logoColor=fff)
 ![css](https://img.shields.io/badge/css-0014FF?style=for-the-badge&logo=css3&logoColor=fff)
 ![javascript](https://img.shields.io/badge/javascript-FFD93D?style=for-the-badge&logo=javascript&logoColor=393646)
 ![typescript](https://img.shields.io/badge/typescript-0081C9?style=for-the-badge&logo=typescript&logoColor=white)
 ![rust](https://img.shields.io/badge/rust-CC7351?style=for-the-badge&logo=rust&logoColor=393646)
+![debian](https://img.shields.io/badge/debian-D14D72?style=for-the-badge&logo=debian&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-393646?style=for-the-badge&logo=tmux&logoColor=fff)
+![lua](https://img.shields.io/badge/lua-62CDFF?style=for-the-badge&logo=lua&logoColor=19376D)
+![bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![neovim](https://img.shields.io/badge/neovim-62CDFF?style=for-the-badge&logo=neovim&logoColor=2B7A0B)
