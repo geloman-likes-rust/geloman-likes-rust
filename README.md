@@ -1,4 +1,4 @@
-### 📊 Stats
+## 📊 Stats
 ---
 
 <p align="center">
@@ -7,7 +7,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=geloman-likes-rust&theme=tokyonight&hide_border=true&background=FFFFFF00">
 </p>
 
-### 🧰 Tools
+## 🧰 Tools
 ---
 
 ![debian](https://img.shields.io/badge/debian-D14D72?style=for-the-badge&logo=debian&logoColor=white)
