@@ -12,6 +12,7 @@
 
 ## 🧰 Tools
 
+![git](https://img.shields.io/badge/git-EEEEEE?style=for-the-badge&logo=git&logoColor=E14D2A)
 ![html](https://img.shields.io/badge/html-FC2947?style=for-the-badge&logo=html5&logoColor=fff)
 ![css](https://img.shields.io/badge/css-0014FF?style=for-the-badge&logo=css3&logoColor=fff)
 ![javascript](https://img.shields.io/badge/javascript-FFD93D?style=for-the-badge&logo=javascript&logoColor=393646)
@@ -21,5 +22,4 @@
 ![tmux](https://img.shields.io/badge/tmux-393646?style=for-the-badge&logo=tmux&logoColor=fff)
 ![lua](https://img.shields.io/badge/lua-62CDFF?style=for-the-badge&logo=lua&logoColor=19376D)
 ![bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![git](https://img.shields.io/badge/git-EEEEEE?style=for-the-badge&logo=git&logoColor=E14D2A)
 ![neovim](https://img.shields.io/badge/neovim-62CDFF?style=for-the-badge&logo=neovim&logoColor=2B7A0B)
