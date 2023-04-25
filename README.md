@@ -27,3 +27,4 @@
 ![rust](https://img.shields.io/badge/rust-CC7351?style=for-the-badge&logo=rust&logoColor=393646)
 ![debian](https://img.shields.io/badge/debian-D14D72?style=for-the-badge&logo=debian&logoColor=fff)
 ![fedora](https://img.shields.io/badge/fedora-19376D?style=for-the-badge&logo=fedora&logoColor=fff)
+![arch](https://img.shields.io/badge/arch-0B2447?style=for-the-badge&logo=archlinux&logoColor=19A7CE)
