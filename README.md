@@ -4,18 +4,10 @@
 
 ## 📊 Stats
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=geloman-likes-rust&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000)
-![github-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geloman-likes-rust&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=12)
-![github-streak-stats](https://github-readme-streak-stats.herokuapp.com?user=geloman-likes-rust&theme=onedark&hide_border=true&background=FFFFFF00)
-
-<p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=geloman-likes-rust&theme=onedark&hide_border=true&background=FFFFFF00">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geloman-likes-rust&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geloman-likes-rust&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=12">
+  <img src="https://github-readme-stats.vercel.app/api?username=geloman-likes-rust&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=geloman-likes-rust&theme=onedark&hide_border=true&background=FFFFFF00">
 </p>
 
 ## 🧰 Tools
