@@ -22,5 +22,5 @@
 ![javascript](https://img.shields.io/badge/javascript-FFD93D?style=for-the-badge&logo=javascript&logoColor=393646)
 ![typescript](https://img.shields.io/badge/typescript-0081C9?style=for-the-badge&logo=typescript&logoColor=white)
 ![rust](https://img.shields.io/badge/rust-CC7351?style=for-the-badge&logo=rust&logoColor=393646)
-![redis](https://img.shields.io/badge/redis-C21010?style=for-the-badge&logo=redis&logoColor=white)
+![redis](https://img.shields.io/badge/redis-B20600?style=for-the-badge&logo=redis&logoColor=white)
 ![debian](https://img.shields.io/badge/debian-D14D72?style=for-the-badge&logo=debian&logoColor=white)
