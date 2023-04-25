@@ -26,3 +26,4 @@
 ![docker](https://img.shields.io/badge/docker-47B5FF?style=for-the-badge&logo=docker&logoColor=fff)
 ![rust](https://img.shields.io/badge/rust-CC7351?style=for-the-badge&logo=rust&logoColor=393646)
 ![debian](https://img.shields.io/badge/debian-D14D72?style=for-the-badge&logo=debian&logoColor=fff)
+![fedora](https://img.shields.io/badge/fedora-19376D?style=for-the-badge&logo=fedora&logoColor=fff)
