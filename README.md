@@ -22,6 +22,7 @@
 ![javascript](https://img.shields.io/badge/javascript-FFD93D?style=for-the-badge&logo=javascript&logoColor=393646)
 ![typescript](https://img.shields.io/badge/typescript-0081C9?style=for-the-badge&logo=typescript&logoColor=fff)
 ![graphql](https://img.shields.io/badge/graphql-E11299?style=for-the-badge&logo=graphql&logoColor=fff)
+![mysql](https://img.shields.io/badge/mysql-0081C9?style=for-the-badge&logo=mysql&logoColor=FFD95A)
 ![redis](https://img.shields.io/badge/redis-B20600?style=for-the-badge&logo=redis&logoColor=fff)
 ![docker](https://img.shields.io/badge/docker-47B5FF?style=for-the-badge&logo=docker&logoColor=fff)
 ![rust](https://img.shields.io/badge/rust-CC7351?style=for-the-badge&logo=rust&logoColor=393646)
