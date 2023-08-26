@@ -1,5 +1,6 @@
 <p draggable="false" align="center">
-  <img alt="my wife eating" src="https://i.pinimg.com/originals/d2/43/95/d2439537bbb38f07c90564a9f23212d5.gif">
+  <!-- <img alt="my wife eating" src="https://i.pinimg.com/originals/d2/43/95/d2439537bbb38f07c90564a9f23212d5.gif"> -->
+  <img alt="my wife eating" src="https://media.giphy.com/media/Dnfr6N8UY7DYotdgOq/giphy.gif">
 </p>
 
 ## 📊 Stats
